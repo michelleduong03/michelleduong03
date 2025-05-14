@@ -3,7 +3,10 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Chimi<br><br>🌱 I’m currently learning AWS services !<br><br>📫 How to reach me michelle.l.duong@gmail.com<br><br>📄 Know about my experiences https://docs.google.com/document/d/1w_dXCSGleV70LDpeZTgLuDo-mWjXt47ig6FMvIS5pXo/edit?usp=sharing<br><br>
+🔭 I’m currently working on Chimi (https://github.com/michelleduong03/Chimi.git)<br><br>
+🌱 I’m currently learning AWS services !<br><br>
+📫 How to reach me michelle.l.duong@gmail.com<br><br>
+📄 Know about my experiences https://docs.google.com/document/d/1w_dXCSGleV70LDpeZTgLuDo-mWjXt47ig6FMvIS5pXo/edit?usp=sharing<br><br>
 
 
 ## 🌐 Socials:
