@@ -12,7 +12,7 @@
 
 📫 How to reach me michelle.l.duong@gmail.com  
 
-📄 Know about my experiences https://docs.google.com/document/d/1w_dXCSGleV70LDpeZTgLuDo-mWjXt47ig6FMvIS5pXo/edit?usp=sharing
+📄 Know about my experiences https://tinyurl.com/MichelleDuong
 
 
 
