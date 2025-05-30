@@ -8,7 +8,7 @@
     Chimi (https://github.com/michelleduong03/Chimi.git)  
     TrackNowNotLater (https://github.com/michelleduong03/TrackNowNotLater.git)  
 
-🌱 I’m currently learning AWS services !  
+🌱 I’m currently learning AWS services & full stack development !  
 
 📫 How to reach me michelle.l.duong@gmail.com  
 
