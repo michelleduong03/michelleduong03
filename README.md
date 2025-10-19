@@ -9,7 +9,7 @@
   
   ↳ A React + Node.js cafe order display system with text-to-speech support. It uses a 3-stage queue (Making → Pickup → Complete) to manage orders locally in real time, reducing confusion at busy counters.
 
-- **[TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater.git)**  --> https://tracknownotlater.com/
+- **[TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater_Info.git)**  --> https://tracknownotlater.com/
   
   ↳ A full-stack BNPL (Buy Now, Pay Later) dashboard that parses Gmail data to track upcoming payments, helping users stay on top of their finances.
 
