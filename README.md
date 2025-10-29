@@ -5,13 +5,17 @@
 # 💫 About Me:
 🔭 I’m currently working on:  
 
-- **[Chimi](https://github.com/michelleduong03/Chimi.git)**
-  
-  ↳ A React + Node.js cafe order display system with text-to-speech support. It uses a 3-stage queue (Making → Pickup → Complete) to manage orders locally in real time, reducing confusion at busy counters.
-
 - **[TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater_Info.git)**  --> https://tracknownotlater.com/
   
   ↳ A full-stack BNPL (Buy Now, Pay Later) dashboard that parses Gmail data to track upcoming payments, helping users stay on top of their finances.
+
+- **[Am I(AI) Biased](https://github.com/michelleduong03/Am-I-AI-Biased.git)**
+  
+  ↳ Senior capstone project exploring how large language models handle bias, combining hands-on model testing with academic research to understand sources, impacts, and mitigation of AI bias.
+
+- **[Chimi](https://github.com/michelleduong03/Chimi.git)**
+  
+  ↳ A React + Node.js cafe order display system with text-to-speech support. It uses a 3-stage queue (Making → Pickup → Complete) to manage orders locally in real time, reducing confusion at busy counters.
 
 🌱 I’m currently learning AWS services & full stack development !  
 
