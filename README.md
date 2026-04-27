@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on:  
 
-- **[TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater_Info.git)**  --> https://tracknownotlater.com/
+- **[TrackNowNotLater](https://github.com/michelleduong03/TrackNowNotLater_Info.git)** 
   
   ↳ A full-stack BNPL (Buy Now, Pay Later) dashboard that parses Gmail data to track upcoming payments, helping users stay on top of their finances.
 
